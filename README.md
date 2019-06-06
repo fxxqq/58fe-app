@@ -9,16 +9,16 @@
 - 文章编写以及分享，支持md, 只做pc端（优先级：4）
 
 ### 前端
-app 端 :https://github.com/ru23/58fe-app
-技术栈：react-native +typescript+redux
-web端（兼容wap）
-react+redux+ts+ssr
-admin: 
-技术栈 ：electron+react桌面应用
+- app 端 :https://github.com/ru23/58fe-app
+- 技术栈：react-native +typescript+redux
+- web端（兼容wap）
+- react+redux+ts+ssr
+- admin: 
+- 技术栈 ：electron+react桌面应用
 
 ### 后端
-技术栈：主要是go（性能要求高的）
-node做管理系统的后端
+- 技术栈：主要是go（性能要求高的）
+- node做管理系统的后端
 
 ### 封装：rn ui组件库（待讨论）
 
